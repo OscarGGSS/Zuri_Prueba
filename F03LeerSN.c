@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <ctype.h>
 
-
 int LeerSN() {
 
     char cOpcionSN;
@@ -29,7 +28,7 @@ int LeerSN() {
         } else {
 
             return 0;
-
+            
         }
     }
 }
